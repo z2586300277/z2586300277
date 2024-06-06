@@ -1,60 +1,15 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Three-Editor 👋
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+- npm包形式易用型 Three.js低代码编辑器  https://www.npmjs.com/package/three-editor-cores
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+- 集成案例-编辑器 https://z2586300277.github.io/three-editor/dist/#/editor
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+- 在线测试Api https://z2586300277.github.io/three-editor/dist/#/codeMirror
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+- 文档 https://z2586300277.github.io/three-editor/docs/dist
 
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+- 交流群 865182188 加群免费接技术投稿, 如模仿某些三维案例,根据设计图定制某种三维效果， 免费技术咨询，帮你解决95% 的技术问题和难题
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+- qq 2586300277 
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
- ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
- 
+![](https://z2586300277.github.io/three-editor/dist/home.png)
