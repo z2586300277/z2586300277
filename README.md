@@ -8,6 +8,36 @@
 
 - 文档 https://z2586300277.github.io/three-editor/docs/dist
 
-- 交流群 865182188 加群免费接技术投稿, 如模仿某些三维案例,根据设计图定制某种三维效果， 免费技术咨询，帮你解决95% 的技术问题和难题
+- QQ 2586300277
 
-- qq 2586300277 
+```js
+if (You Is A Girl && No Boy Friend) {
+
+    // Please leave a message for me;
+
+    class Family {
+
+        constructor() {
+
+            Object.assign(this, You, Me)
+
+        }
+
+    }
+
+    const Baby = await new Promise(resolve =>
+
+        setTimeout(() => {
+
+            class Baby extends Family { }
+
+            resolve(Baby)
+
+        }, 31536000)
+
+    )
+
+    new Baby()
+
+}
+```
