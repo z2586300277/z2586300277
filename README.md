@@ -2,7 +2,9 @@
 
 - npm包形式易用型 Three.js低代码编辑器  https://www.npmjs.com/package/three-editor-cores
 
-- 集成案例-编辑器 https://z2586300277.github.io/three-editor/dist/#/editor
+- 3D编辑器 https://z2586300277.github.io/three-editor/dist/#/editor
+
+- 技术案例 https://z2586300277.github.io/three-editor/dist/#/example
 
 - 在线测试Api https://z2586300277.github.io/three-editor/dist/#/codeMirror
 
@@ -25,19 +27,19 @@ if (You Is A Girl && No Boy Friend) {
 
     }
 
-    const Baby = await new Promise(resolve =>
+    const Love = await new Promise(resolve =>
 
         setTimeout(() => {
 
-            class Baby extends Family { }
+            class Love extends Family { }
 
-            resolve(Baby)
+            resolve(Love)
 
-        }, 31536000)
+        }, 5201314)
 
     )
 
-    new Baby()
+    new Love()
 
 }
 ```
