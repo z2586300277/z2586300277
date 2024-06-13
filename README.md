@@ -10,7 +10,7 @@
 
 - 文档 https://z2586300277.github.io/three-editor/docs/dist
 
-- QQ 2586300277
+- QQ 2586300277  ......将我纳入麾下
 
 ```js
 if (You Is A Girl && No Boy Friend) {
