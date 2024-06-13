@@ -1,5 +1,6 @@
 ## Three-Editor 👋
 
+- 注: 先点星！先点星！先点星！重要的事情说三遍。
 
 - npm包形式易用型 Three.js低代码编辑器  https://www.npmjs.com/package/three-editor-cores
 
