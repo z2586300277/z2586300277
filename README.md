@@ -16,6 +16,8 @@
 
 - 文档 https://z2586300277.github.io/three-editor/docs/dist
 
+- csdn https://blog.csdn.net/guang2586?spm=1011.2415.3001.5343
+
 
 - QQ 2586300277      ———— 加入我的开发者团队/将我纳入您麾下
 
