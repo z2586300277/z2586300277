@@ -17,27 +17,29 @@
 - QQ 2586300277      ———— 加入我的开发者团队/将我纳入您麾下
 
 ```js
-if (Boy and Girl) {
+if (Boy && Girl) {
 
     const Love = await new Promise(resolve =>
 
         setTimeout(() => {
 
-            class Love extends Family {
+            class Family {
 
                 constructor() {
 
-                    Object.assign(this, You, Me)
+                    Object.assign(this, Boy, Girl)
 
                 }
 
             }
 
-            resolve(Love)
+            resolve(Family)
 
         }, 5201314)
 
     )
+
+    new Love()
 
 }
 ```
