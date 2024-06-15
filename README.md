@@ -17,33 +17,27 @@
 - QQ 2586300277      ———— 加入我的开发者团队/将我纳入您麾下
 
 ```js
-if (You Is A Girl && No Boy Friend) {
-
-    // Please leave a message for me;
-
-    class Family {
-
-        constructor() {
-
-            Object.assign(this, You, Me)
-
-        }
-
-    }
+if (Boy and Girl) {
 
     const Love = await new Promise(resolve =>
 
         setTimeout(() => {
 
-            class Love extends Family { }
+            class Love extends Family {
+
+                constructor() {
+
+                    Object.assign(this, You, Me)
+
+                }
+
+            }
 
             resolve(Love)
 
         }, 5201314)
 
     )
-
-    new Love()
 
 }
 ```
