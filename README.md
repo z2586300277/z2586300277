@@ -37,3 +37,6 @@ if (Boy && Girl) {
 
 }
 ```
+预览             |  赞助我
+:-------------------------:|:-------------------------:
+![](https://z2586300277.github.io/three-editor/dist/home.png)  |  ![](https://z2586300277.github.io/three-editor/dist/wx_pay.jpg)
