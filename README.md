@@ -15,7 +15,6 @@
 - QQ 2586300277      ———— 加入我的开发者团队/将我纳入您麾下
 
 ```js
-/* ------- find my gril ---------- */
 if (Boy && Girl) {
 
     const Love = await new Promise(resolve =>
