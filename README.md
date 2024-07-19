@@ -8,13 +8,14 @@
 
 - 3D编辑器 https://z2586300277.github.io/three-editor/dist/#/editor
 
-- 技术案例 https://z2586300277.github.io/three-editor/dist/#/example
+- 原技术案例 https://z2586300277.github.io/three-editor/dist/#/example
 
 - csdn https://blog.csdn.net/guang2586?spm=1011.2415.3001.5343
 
 - QQ 2586300277      ———— 加入我的开发者团队/将我纳入您麾下
 
 ```js
+/* ------- find my gril ---------- */
 if (Boy && Girl) {
 
     const Love = await new Promise(resolve =>
