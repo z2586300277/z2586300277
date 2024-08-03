@@ -1,8 +1,10 @@
 ## 优雅永不过时 👋
 
-- 寻找一起有梦想、想创业的人,带你踏出第一步, 尝试了就会获取可能和经验, 不做就永远没有机会。
-
 - 原生Three.js Cesium.js 案例社区 https://github.com/z2586300277/three-cesium-examples 持续更新中
+
+- 想加入three-cesium-examples 开源仓库管理和维护者, 可将github 账户发送到 邮箱2586300277@qq.com 或 直接联系QQ 2586300277
+
+- 寻找一起有梦想、想创业的人,带你踏出第一步, 尝试了就会获取可能和经验, 不做就永远没有机会。
 
 - npm包形式易用型 Three.js低代码编辑器  https://www.npmjs.com/package/three-editor-cores
 
