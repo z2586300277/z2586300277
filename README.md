@@ -16,7 +16,7 @@
 
 - 🍁封装库API技术案例 https://z2586300277.github.io/three-editor/dist/#/example
 
-- 🌳csdn https://blog.csdn.net/guang2586
+- 🌳CSDN地址 https://blog.csdn.net/guang2586
 
 - 🍀个人网站 http://threehub.cn
 
