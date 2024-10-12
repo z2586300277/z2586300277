@@ -22,7 +22,7 @@
 
 - 🍀Gitee仓库 https://gitee.com/zhang-jingguang
 
-- QQ 2586300277 QQ群 865182188 ———— 寻求技术帮助/将我纳入您麾下
+- QQ 2586300277 QQ群 865182188 ———— 寻求技术帮助/有好工作给我内推一下😚
 
 ```js
 if (Boy && Girl) {
