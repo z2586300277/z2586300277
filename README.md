@@ -1,6 +1,6 @@
 ## 优雅永不过时 👋
 
-- 🌍用优雅的代码，创造惊艳的视觉效果，带来震惊时代的改变。  
+- 🔥在剩余的时间里，用我的生命之火，探索人生的意义。  
 
 - 🍃原生Three.js Cesium.js案例仓库 https://github.com/z2586300277/three-cesium-examples 持续更新中
   
