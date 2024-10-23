@@ -4,21 +4,19 @@
 
 - 🍃原生Three.js Cesium.js案例仓库 https://github.com/z2586300277/three-cesium-examples 持续更新中
   
-- 🍃预览地址 https://z2586300277.github.io/three-cesium-examples/#/example
-
-- 🍃加入仓库管理和维护者,将github账户发送邮箱2586300277@qq.com 或 联系QQ 2586300277
-
 - 🍁3D低代码组态编辑器仓库 https://github.com/z2586300277/three-editor
 
-- 🍁编辑器预览 https://z2586300277.github.io/three-editor/dist/#/editor
+- 📦npm包形式易用型 Three.js低代码编辑器内核  https://www.npmjs.com/package/three-editor-cores
 
-- 🍁npm包形式易用型 Three.js低代码编辑器内核  https://www.npmjs.com/package/three-editor-cores
+- 🐳npm包源码仓库 https://github.com/z2586300277/three-editor-cores
 
-- 🍁npm包源码仓库 https://github.com/z2586300277/three-editor-cores
+- 📗Hexo博客 https://blog.csdn.net/guang2586
+
+- 🏠个人官网 https://threehub.cn
   
-- 🍁文档 https://z2586300277.github.io/three-editor/docs/dist
+- 📘CSDN https://blog.csdn.net/guang2586
 
-- 🍁API案例 https://z2586300277.github.io/three-editor/dist/#/example
+- 📺BiBi https://space.bilibili.com/245165721
 
 - 🍀Gitee仓库 https://gitee.com/zhang-jingguang
 
