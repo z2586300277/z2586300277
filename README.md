@@ -10,7 +10,7 @@
 
 - 🐳npm包源码仓库 https://github.com/z2586300277/three-editor-cores
 
-- 🏢开源组织 https://github.com/OpenThree
+- 🏢开源组织-专注于前端三维可视化 https://github.com/OpenThree
 
 - 📗Hexo博客 https://z2586300277.github.io/blog
 
