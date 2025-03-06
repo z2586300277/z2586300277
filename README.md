@@ -16,7 +16,7 @@
 
 - 📗Hexo博客 https://z2586300277.github.io/blog
 
-- 🏠个人官网 https://threehub.cn
+- 🏠个人主页 https://z2586300277.github.io/
   
 - 📘CSDN https://blog.csdn.net/guang2586
 
