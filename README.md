@@ -51,4 +51,3 @@ if (Boy && Girl) {
 
 }
 ```
-<img src="https://profile-counter.glitch.me/z2586300277/count.svg" >
